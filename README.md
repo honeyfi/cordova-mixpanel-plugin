@@ -1,3 +1,11 @@
+## FORKED ON May 8, 2020
+Forked due to fix issue with Apple WatchKit references. The newer versions of this plugin do remove all of the WatchKit stuff, but upgrading the plugin adds Firebase stuff that creates other issues. 
+
+This fork is v5.4.5 minus all WatchKit references. Used this fork for inspiration:
+
+https://github.com/laurant/cordova-mixpanel-plugin/commits/master
+
+
 
 ## Cordova Plugin that wraps Mixpanel sdk for android and ios
 
