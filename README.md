@@ -1,7 +1,7 @@
 ## FORKED ON May 8, 2020 by @stanjw4
 Forked due to fix issue with Apple WatchKit references. The newer versions of this plugin do remove all of the WatchKit stuff, but upgrading the plugin adds Firebase stuff that creates other issues. 
 
-This fork is v5.4.5 minus all WatchKit references. Used this fork for inspiration:
+This fork is v4.5.3 minus all WatchKit references. Used this fork for inspiration:
 
 https://github.com/laurant/cordova-mixpanel-plugin/commits/master
 
