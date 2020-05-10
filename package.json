@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samzilverberg/cordova-mixpanel-plugin.git"
+    "url": "git+https://github.com/honeyfi/cordova-mixpanel-plugin-remove-watchkit.git"
   },
-  "homepage": "https://github.com/samzilverberg/cordova-mixpanel-plugin#readme",
+  "homepage": "https://github.com/honeyfi/cordova-mixpanel-plugin-remove-watchkit#readme",
   "keywords": [
     "mixpanel",
     "cordova",
