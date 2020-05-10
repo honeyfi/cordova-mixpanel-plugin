@@ -1,4 +1,4 @@
-var MIXPANEL_LIB_URL = 'plugins/cordova-plugin-mixpanel/src/browser/mixpanel-js-lib.js';
+var MIXPANEL_LIB_URL = 'plugins/cordova-plugin-mixpanel-remove-watchkit/src/browser/mixpanel-js-lib.js';
 
 
 var errors = {

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-mixpanel"
+        id="cordova-plugin-mixpanel-remove-watchkit"
         version="4.5.4">
 
     <name>Mixpanel</name>
@@ -277,7 +277,7 @@
             <runs/>
         </js-module>
 
-        <asset src="src/browser/mixpanel-js-lib.js" target="plugins/cordova-plugin-mixpanel/src/browser/mixpanel-js-lib.js"/>
+        <asset src="src/browser/mixpanel-js-lib.js" target="plugins/cordova-plugin-mixpanel-remove-watchkit/src/browser/mixpanel-js-lib.js"/>
     </platform>
 
 </plugin>

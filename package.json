@@ -1,11 +1,11 @@
 {
-  "name": "cordova-plugin-mixpanel",
+  "name": "cordova-plugin-mixpanel-remove-watchkit",
   "version": "4.5.4",
   "description": "Mixpanel Cordova Plugin for iOS, Android and Browser Platforms",
   "author": "Sam Zilverberg <samzilverberg@gmail.com>",
   "license": "MIT",
   "cordova": {
-    "id": "cordova-plugin-mixpanel",
+    "id": "cordova-plugin-mixpanel-remove-watchkit",
     "platforms": [
       "android",
       "ios",

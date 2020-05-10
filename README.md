@@ -18,13 +18,13 @@ https://github.com/laurant/cordova-mixpanel-plugin/commits/master
 requires cordova >5.x.x
 
 ```
-  cordova plugin add cordova-plugin-mixpanel
+  cordova plugin add cordova-plugin-mixpanel-remove-watchkit
 ```
 
 *Optional*: If you want to explicitly specify a google play services version to work with other existing plugins in your project, you can specify a flag `PLAY_SERVICES_VERSION` during installation. e.g. 11.8.0. If you don't provide this flag, it will assume the default '+' wildcard version
 
 ```
-cordova plugin add cordova-plugin-mixpanel --variable PLAY_SERVICES_VERSION="11.8.0"
+cordova plugin add cordova-plugin-mixpanel-remove-watchkit --variable PLAY_SERVICES_VERSION="11.8.0"
 ```
 
 #### Initialization and quick start
